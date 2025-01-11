@@ -28,4 +28,4 @@ A machine learning project designed to identify and classify plant diseases usin
 - Robust performance across plant species of Apple,Blueberry,Cherry,Corn,Grape,Peach,Potato,Tomato,Strwaberry,etc.
 
 ## DATASET LINK 
--- ![Link](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data)
+LINK: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data
